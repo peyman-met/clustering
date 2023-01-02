@@ -1,0 +1,5 @@
+asyncio
+pandas
+networkx
+datetime
+aiohttp==3.8.3
