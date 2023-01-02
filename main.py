@@ -37,7 +37,7 @@ st.write(f"we found {len(query_list)} rows!")
 st.write(query_list[:10])
 
 
-sameUrl = st.slider('How many URLs do you want to pair?',0,100,6)  
+sameUrl = st.slider('How many URLs do you want to pair?',0,10,6)  
 
 
 step = 5000
