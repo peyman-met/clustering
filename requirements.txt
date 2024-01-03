@@ -2,4 +2,5 @@ asyncio
 pandas
 networkx
 datetime
-aiohttp==3.8.3
+aiohttp==3.9.0
+numpy>=1.22.2 # not directly required, pinned by Snyk to avoid a vulnerability
